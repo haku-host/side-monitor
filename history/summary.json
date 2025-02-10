@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-ping",
     "status": "up",
-    "uptime": "1.69%",
-    "uptimeDay": "1.69%",
-    "uptimeWeek": "1.69%",
-    "uptimeMonth": "1.69%",
-    "uptimeYear": "1.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 189,
     "timeWeek": 189,
     "timeMonth": 189,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2025-02-10": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
