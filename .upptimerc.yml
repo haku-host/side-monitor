@@ -42,7 +42,7 @@ sites:
   - name: TestPing
     check: "tcp-ping"
     url: msk3.haku.host
-    port: 53
+    port: 443
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
