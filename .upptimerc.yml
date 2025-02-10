@@ -47,6 +47,18 @@ sites:
       - 201
       - 401
       - 404
+  - name: HakuPay Backend
+    url: $HAKUPAY
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
+  - name: Uptime Kuma
+    url: https://status.haku.host
+    expectedStatusCodes:
+      - 200
+      - 201
   - name: mirror.haku.su
     url: https://archlinux.gay
 
