@@ -5,12 +5,32 @@ repo: side-monitor # The name of this repository
 sites:
   - name: MSK1
     url: https://msk1.haku.host
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
   - name: MSK2
     url: https://msk2.haku.host
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
   - name: MSK3
     url: https://msk3.haku.host
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
   - name: WebSite
     url: https://haku.host
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
