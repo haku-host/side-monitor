@@ -1,4 +1,4 @@
-# [📈 Онлайн статус](https://side.status.haku.host): <!--live status--> **🟩 All systems operational**
+# [📈 Онлайн статус](https://haku-host.github.io/side-monitor/): <!--live status--> **🟩 All systems operational**
 
 
 Этот репозиторий - инстанция [Upptime](https://github.com/upptime/upptime), запущенная для внешнего мониторинга состояния сервисов [haku.host](https://haku.host/).  
@@ -24,8 +24,8 @@
 
 <!--end: status pages-->
 
-[**Внутренний монитор →**](https://side.status.haku.host)  
-[**Внешний монитор →**](https://side.status.haku.host)
+[**Внутренний монитор →**](https://status.haku.host)  
+[**Внешний монитор →**](https://haku-host.github.io/side-monitor/)
 
 ## 📄 Лицензия
 
