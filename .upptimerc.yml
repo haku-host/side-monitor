@@ -39,9 +39,7 @@ sites:
       - 401
       - 404
   - name: G2 Network
-    url: 87.251.74.1
-    port: 80
-    check: "tcp-ping"
+    url: $G2
 
 status-website:
   theme: ocean
