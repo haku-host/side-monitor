@@ -52,6 +52,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+  - name: Wiki
+    url: https://wiki.haku.host
   - name: mirror.haku.su
     url: https://archlinux.gay
 
