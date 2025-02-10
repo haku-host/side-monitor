@@ -3,19 +3,19 @@ owner: haku-host # Your GitHub organization or username, where this repository l
 repo: side-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: MSK1
+    url: http://msk1.haku.host
+  - name: MSK2
+    url: http://msk2.haku.host
+  - name: MSK3
+    url: http://msk3.haku.host
+  - name: WebSite
+    url: https://haku.host
+#  - name: IPv6 test
+#    url: forwardemail.net
+#    port: 80
+#    check: "tcp-ping"
+#    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
