@@ -38,6 +38,11 @@ sites:
       - 201
       - 401
       - 404
+
+  - name: TestPing
+    check: "tcp-ping"
+    url: msk3.haku.host
+    port: 53
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
