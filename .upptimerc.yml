@@ -31,6 +31,13 @@ sites:
       - 201
       - 401
       - 404
+  - name: Panel
+    url: https://my.haku.host
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 401
+      - 404
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
