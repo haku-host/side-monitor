@@ -1,7 +1,7 @@
-url: http://msk1.haku.host
-status: up
-code: 200
-responseTime: 1588
-lastUpdated: 2025-02-10T07:25:58.369Z
+url: https://msk1.haku.host
+status: down
+code: 401
+responseTime: 1508
+lastUpdated: 2025-02-10T07:33:36.256Z
 startTime: 2025-02-10T07:21:32.988Z
 generator: Upptime <https://github.com/upptime/upptime>
