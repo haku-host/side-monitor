@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk1.haku.host.ico",
     "slug": "msk-1",
     "status": "down",
-    "uptime": "78.24%",
-    "uptimeDay": "78.24%",
-    "uptimeWeek": "78.24%",
-    "uptimeMonth": "78.24%",
-    "uptimeYear": "78.24%",
-    "time": 1559,
-    "timeDay": 1559,
-    "timeWeek": 1559,
-    "timeMonth": 1559,
-    "timeYear": 1559,
+    "uptime": "37.22%",
+    "uptimeDay": "37.22%",
+    "uptimeWeek": "37.22%",
+    "uptimeMonth": "37.22%",
+    "uptimeYear": "37.22%",
+    "time": 1552,
+    "timeDay": 1552,
+    "timeWeek": 1552,
+    "timeMonth": 1552,
+    "timeYear": 1552,
     "dailyMinutesDown": {
-      "2025-02-10": 3
+      "2025-02-10": 20
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk2.haku.host.ico",
     "slug": "msk-2",
     "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
-    "time": 1576,
-    "timeDay": 1576,
-    "timeWeek": 1576,
-    "timeMonth": 1576,
-    "timeYear": 1576,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 1554,
+    "timeDay": 1554,
+    "timeWeek": 1554,
+    "timeMonth": 1554,
+    "timeYear": 1554,
     "dailyMinutesDown": {
-      "2025-02-10": 15
+      "2025-02-10": 32
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk3.haku.host.ico",
     "slug": "msk-3",
     "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
-    "time": 1542,
-    "timeDay": 1542,
-    "timeWeek": 1542,
-    "timeMonth": 1542,
-    "timeYear": 1542,
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 1549,
+    "timeDay": 1549,
+    "timeWeek": 1549,
+    "timeMonth": 1549,
+    "timeYear": 1549,
     "dailyMinutesDown": {
-      "2025-02-10": 15
+      "2025-02-10": 32
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1975,
-    "timeDay": 1975,
-    "timeWeek": 1975,
-    "timeMonth": 1975,
-    "timeYear": 1975,
+    "time": 1956,
+    "timeDay": 1956,
+    "timeWeek": 1956,
+    "timeMonth": 1956,
+    "timeYear": 1956,
     "dailyMinutesDown": {}
   }
 ]
