@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: side.status.haku.host
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/haku-host/side-monitor/refs/heads/master/haku.svg
   name: Haku Host
   introTitle: "Внешнее наблюдение за аптаймом серверов."
   introMessage: Здесь можно посмотреть реальную доступность машин за последнее время
