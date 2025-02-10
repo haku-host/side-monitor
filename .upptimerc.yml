@@ -4,11 +4,11 @@ repo: side-monitor # The name of this repository
 
 sites:
   - name: MSK1
-    url: http://msk1.haku.host
+    url: https://msk1.haku.host
   - name: MSK2
-    url: http://msk2.haku.host
+    url: https://msk2.haku.host
   - name: MSK3
-    url: http://msk3.haku.host
+    url: https://msk3.haku.host
   - name: WebSite
     url: https://haku.host
 #  - name: IPv6 test
