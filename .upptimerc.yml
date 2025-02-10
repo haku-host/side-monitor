@@ -21,8 +21,8 @@ status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: side.status.haku.host
-  # baseUrl: /your-repo-name
+  #cname: side.status.haku.host
+  baseUrl: /repo 
   logoUrl: https://raw.githubusercontent.com/haku-host/side-monitor/refs/heads/master/haku.svg
   name: Haku Host
   introTitle: "Внешнее наблюдение за аптаймом серверов."
