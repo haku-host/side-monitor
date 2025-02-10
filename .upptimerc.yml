@@ -68,6 +68,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: side.status.haku.host
   baseUrl: /side-monitor
+  favicon: https://raw.githubusercontent.com/haku-host/side-monitor/refs/heads/master/haku.png
   logoUrl: https://raw.githubusercontent.com/haku-host/side-monitor/refs/heads/master/haku.svg
   name: Haku Host
   introTitle: "Внешнее наблюдение за аптаймом серверов."
