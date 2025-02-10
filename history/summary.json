@@ -4,19 +4,19 @@
     "url": "https://msk1.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/msk1.haku.host.ico",
     "slug": "msk-1",
-    "status": "down",
-    "uptime": "36.09%",
-    "uptimeDay": "36.09%",
-    "uptimeWeek": "36.09%",
-    "uptimeMonth": "36.09%",
-    "uptimeYear": "36.09%",
-    "time": 1565,
-    "timeDay": 1565,
-    "timeWeek": 1565,
-    "timeMonth": 1565,
-    "timeYear": 1565,
+    "status": "up",
+    "uptime": "33.98%",
+    "uptimeDay": "33.98%",
+    "uptimeWeek": "33.98%",
+    "uptimeMonth": "33.98%",
+    "uptimeYear": "33.98%",
+    "time": 1564,
+    "timeDay": 1564,
+    "timeWeek": 1564,
+    "timeMonth": 1564,
+    "timeYear": 1564,
     "dailyMinutesDown": {
-      "2025-02-10": 21
+      "2025-02-10": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://msk2.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/msk2.haku.host.ico",
     "slug": "msk-2",
-    "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 1575,
-    "timeDay": 1575,
-    "timeWeek": 1575,
-    "timeMonth": 1575,
-    "timeYear": 1575,
+    "status": "up",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
+    "time": 1569,
+    "timeDay": 1569,
+    "timeWeek": 1569,
+    "timeMonth": 1569,
+    "timeYear": 1569,
     "dailyMinutesDown": {
-      "2025-02-10": 33
+      "2025-02-10": 36
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://msk3.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/msk3.haku.host.ico",
     "slug": "msk-3",
-    "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
-    "time": 1577,
-    "timeDay": 1577,
-    "timeWeek": 1577,
-    "timeMonth": 1577,
-    "timeYear": 1577,
+    "status": "up",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
+    "time": 1573,
+    "timeDay": 1573,
+    "timeWeek": 1573,
+    "timeMonth": 1573,
+    "timeYear": 1573,
     "dailyMinutesDown": {
-      "2025-02-10": 33
+      "2025-02-10": 36
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1972,
-    "timeDay": 1972,
-    "timeWeek": 1972,
-    "timeMonth": 1972,
-    "timeYear": 1972,
+    "time": 1956,
+    "timeDay": 1956,
+    "timeWeek": 1956,
+    "timeMonth": 1956,
+    "timeYear": 1956,
     "dailyMinutesDown": {}
   }
 ]
