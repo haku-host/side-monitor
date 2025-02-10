@@ -42,6 +42,8 @@ sites:
       - 404
   - name: HakuPay Backend
     url: $HAKUPAY
+  - name: mirror.haku.su
+    url: https://archlinux.gay
 
 status-website:
   theme: ocean
