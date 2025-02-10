@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1357,
-    "timeDay": 1357,
-    "timeWeek": 1357,
-    "timeMonth": 1357,
-    "timeYear": 1357,
+    "time": 1506,
+    "timeDay": 1506,
+    "timeWeek": 1506,
+    "timeMonth": 1506,
+    "timeYear": 1506,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk2.haku.host.ico",
     "slug": "msk-2",
     "status": "down",
-    "uptime": "17.31%",
-    "uptimeDay": "17.31%",
-    "uptimeWeek": "17.31%",
-    "uptimeMonth": "17.31%",
-    "uptimeYear": "17.31%",
+    "uptime": "1.65%",
+    "uptimeDay": "1.65%",
+    "uptimeWeek": "1.65%",
+    "uptimeMonth": "1.65%",
+    "uptimeYear": "1.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 3
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk3.haku.host.ico",
     "slug": "msk-3",
     "status": "down",
-    "uptime": "22.64%",
-    "uptimeDay": "22.64%",
-    "uptimeWeek": "22.64%",
-    "uptimeMonth": "22.64%",
-    "uptimeYear": "22.64%",
+    "uptime": "2.12%",
+    "uptimeDay": "2.12%",
+    "uptimeWeek": "2.12%",
+    "uptimeMonth": "2.12%",
+    "uptimeYear": "2.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-10": 0
+      "2025-02-10": 3
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1856,
-    "timeDay": 1856,
-    "timeWeek": 1856,
-    "timeMonth": 1856,
-    "timeYear": 1856,
+    "time": 1970,
+    "timeDay": 1970,
+    "timeWeek": 1970,
+    "timeMonth": 1970,
+    "timeYear": 1970,
     "dailyMinutesDown": {}
   }
 ]
