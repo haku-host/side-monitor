@@ -22,19 +22,19 @@
     "url": "https://msk1.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/msk1.haku.host.ico",
     "slug": "msk-1-https",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
-    "time": 1670,
-    "timeDay": 1609,
-    "timeWeek": 1670,
-    "timeMonth": 1670,
-    "timeYear": 1670,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
+    "time": 1995,
+    "timeDay": 3753,
+    "timeWeek": 1995,
+    "timeMonth": 1995,
+    "timeYear": 1995,
     "dailyMinutesDown": {
-      "2025-02-12": 14
+      "2025-02-12": 25
     }
   },
   {
