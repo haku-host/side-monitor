@@ -40,19 +40,19 @@
     "url": "https://msk2.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/msk2.haku.host.ico",
     "slug": "msk-2-https",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1548,
-    "timeDay": 1567,
-    "timeWeek": 1548,
-    "timeMonth": 1548,
-    "timeYear": 1548,
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
+    "time": 1844,
+    "timeDay": 2941,
+    "timeWeek": 1844,
+    "timeMonth": 1844,
+    "timeYear": 1844,
     "dailyMinutesDown": {
-      "2025-02-12": 1
+      "2025-02-12": 30
     }
   },
   {
@@ -79,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/haku.host.ico",
     "slug": "web-site",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1922,
     "timeDay": 1984,
     "timeWeek": 1922,
     "timeMonth": 1922,
     "timeYear": 1922,
-    "dailyMinutesDown": {
-      "2025-02-12": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Panel",
@@ -99,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.haku.host.ico",
     "slug": "panel",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 614,
     "timeWeek": 580,
     "timeMonth": 580,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2025-02-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HakuPay Backend",
@@ -119,19 +115,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "haku-pay-backend",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 345,
     "timeWeek": 212,
     "timeMonth": 212,
     "timeYear": 212,
-    "dailyMinutesDown": {
-      "2025-02-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Uptime Kuma",
@@ -139,19 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.haku.host.ico",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1049,
     "timeDay": 2153,
     "timeWeek": 1049,
     "timeMonth": 1049,
     "timeYear": 1049,
-    "dailyMinutesDown": {
-      "2025-02-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
@@ -159,19 +151,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.haku.host.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 754,
     "timeWeek": 678,
     "timeMonth": 678,
     "timeYear": 678,
-    "dailyMinutesDown": {
-      "2025-02-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mirror.haku.su",
