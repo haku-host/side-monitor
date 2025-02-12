@@ -40,18 +40,20 @@
     "url": "https://msk2.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/msk2.haku.host.ico",
     "slug": "msk-2-https",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1557,
     "timeDay": 1693,
     "timeWeek": 1557,
     "timeMonth": 1557,
     "timeYear": 1557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "MSK3 HTTPS",
