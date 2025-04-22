@@ -1,7 +1,7 @@
 url: https://status.haku.host
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-22T20:22:00.617Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2025-04-22T20:50:40.677Z
 startTime: 2025-02-10T09:41:29.758Z
 generator: Upptime <https://github.com/upptime/upptime>
