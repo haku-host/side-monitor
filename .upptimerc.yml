@@ -31,7 +31,7 @@ sites:
       - 201
       - 401
       - 404
-  - name: MSK5 (VDS Xeon)
+  - name: MSK5 HTTPS (VDS Xeon)
     url: $MSK5
     expectedStatusCodes:
       - 200
