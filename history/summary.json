@@ -125,11 +125,11 @@
     "url": "https://my.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/my.haku.host.ico",
     "slug": "pterodactyl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.88%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 1042,
     "timeDay": 1151,
@@ -137,6 +137,7 @@
     "timeMonth": 1128,
     "timeYear": 1042,
     "dailyMinutesDown": {
+      "2026-02-26": 2,
       "2026-02-25": 74,
       "2026-02-22": 16
     }
