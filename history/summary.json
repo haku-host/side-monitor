@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk1.haku.host.ico",
     "slug": "msk-1-https-pterodactyl-xeon",
     "status": "down",
-    "uptime": "68.82%",
+    "uptime": "68.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.82%",
+    "uptimeYear": "68.66%",
     "time": 1472,
     "timeDay": 0,
     "timeWeek": 0,
@@ -20,7 +20,7 @@
       "2026-02-27": 173,
       "2026-02-28": 139,
       "2026-03-01": 165,
-      "2026-06-10": 234,
+      "2026-06-10": 1364,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -129,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk2.haku.host.ico",
     "slug": "msk-2-https-pterodactyl-xeon",
     "status": "down",
-    "uptime": "68.83%",
+    "uptime": "68.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.83%",
+    "uptimeYear": "68.66%",
     "time": 640,
     "timeDay": 0,
     "timeWeek": 0,
@@ -144,7 +144,7 @@
       "2026-02-27": 121,
       "2026-02-28": 199,
       "2026-03-01": 135,
-      "2026-06-10": 235,
+      "2026-06-10": 1364,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -253,11 +253,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/msk3.haku.host.ico",
     "slug": "msk-3-https-pterodactyl-ryzen",
     "status": "down",
-    "uptime": "68.82%",
+    "uptime": "68.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.82%",
+    "uptimeYear": "68.66%",
     "time": 1416,
     "timeDay": 0,
     "timeWeek": 0,
@@ -269,7 +269,7 @@
       "2026-02-27": 131,
       "2026-02-28": 204,
       "2026-03-01": 134,
-      "2026-06-10": 235,
+      "2026-06-10": 1364,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -377,10 +377,10 @@
     "url": "https://haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/haku.host.ico",
     "slug": "msk-4-https-internal-services",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "98.93%",
     "time": 1104,
@@ -410,7 +410,8 @@
       "2026-05-02": 81,
       "2026-05-27": 247,
       "2026-06-05": 53,
-      "2026-06-04": 2
+      "2026-06-04": 2,
+      "2026-06-10": 2
     }
   },
   {
@@ -458,11 +459,11 @@
     "url": "https://haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/haku.host.ico",
     "slug": "billing",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "98.96%",
     "time": 796,
     "timeDay": 882,
@@ -489,7 +490,8 @@
       "2026-04-07": 22,
       "2026-05-02": 80,
       "2026-05-27": 237,
-      "2026-06-05": 45
+      "2026-06-05": 45,
+      "2026-06-10": 2
     }
   },
   {
@@ -497,11 +499,11 @@
     "url": "https://my.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/my.haku.host.ico",
     "slug": "pterodactyl",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "98.72%",
     "time": 1238,
     "timeDay": 809,
@@ -532,7 +534,8 @@
       "2026-04-07": 22,
       "2026-05-02": 80,
       "2026-05-27": 232,
-      "2026-06-05": 40
+      "2026-06-05": 40,
+      "2026-06-10": 2
     }
   },
   {
@@ -540,12 +543,12 @@
     "url": "https://stack.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/stack.haku.host.ico",
     "slug": "haku-stack",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "status": "down",
+    "uptime": "98.97%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "98.96%",
+    "uptimeYear": "98.97%",
     "time": 858,
     "timeDay": 847,
     "timeWeek": 915,
@@ -573,7 +576,8 @@
       "2026-04-07": 21,
       "2026-05-02": 80,
       "2026-05-27": 228,
-      "2026-06-05": 35
+      "2026-06-05": 35,
+      "2026-06-10": 1
     }
   },
   {
@@ -581,10 +585,10 @@
     "url": "$HAKUPAY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "haku-pay-backend",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.02%",
     "time": 326,
@@ -614,7 +618,8 @@
       "2026-04-07": 21,
       "2026-05-02": 79,
       "2026-05-27": 223,
-      "2026-06-05": 31
+      "2026-06-05": 31,
+      "2026-06-10": 1
     }
   },
   {
@@ -622,10 +627,10 @@
     "url": "https://status.haku.host/public-dashboards/605083e175e849918ade2240b60db260",
     "icon": "https://icons.duckduckgo.com/ip3/status.haku.host.ico",
     "slug": "graphana",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "98.90%",
     "time": 899,
@@ -654,7 +659,8 @@
       "2026-04-07": 20,
       "2026-05-02": 79,
       "2026-05-27": 218,
-      "2026-06-05": 26
+      "2026-06-05": 26,
+      "2026-06-10": 1
     }
   },
   {
@@ -662,11 +668,11 @@
     "url": "https://status.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/status.haku.host.ico",
     "slug": "uptime-kuma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.09%",
     "time": 455,
     "timeDay": 432,
@@ -693,7 +699,8 @@
       "2026-03-30": 58,
       "2026-05-02": 78,
       "2026-05-27": 213,
-      "2026-06-05": 21
+      "2026-06-05": 21,
+      "2026-06-10": 1
     }
   },
   {
@@ -701,10 +708,10 @@
     "url": "https://wiki.haku.host",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.haku.host.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.08%",
     "time": 695,
@@ -732,7 +739,8 @@
       "2026-03-30": 57,
       "2026-05-02": 78,
       "2026-05-27": 208,
-      "2026-06-05": 16
+      "2026-06-05": 16,
+      "2026-06-10": 1
     }
   },
   {
@@ -740,11 +748,11 @@
     "url": "https://archlinux.gay",
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.gay.ico",
     "slug": "archlinux-gay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.02%",
     "time": 1062,
     "timeDay": 800,
@@ -770,7 +778,8 @@
       "2026-03-18": 686,
       "2026-03-20": 47,
       "2026-05-02": 77,
-      "2026-05-27": 203
+      "2026-05-27": 203,
+      "2026-06-10": 0
     }
   }
 ]
