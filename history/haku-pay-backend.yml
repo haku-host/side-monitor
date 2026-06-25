@@ -1,7 +1,7 @@
 url: $HAKUPAY
-status: up
-code: 404
-responseTime: 478
-lastUpdated: 2026-06-25T00:16:37.081Z
+status: down
+code: 502
+responseTime: 593
+lastUpdated: 2026-06-25T03:06:07.296Z
 startTime: 2025-02-10T09:28:27.835Z
 generator: Upptime <https://github.com/upptime/upptime>
